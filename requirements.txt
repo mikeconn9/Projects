@@ -11,3 +11,6 @@ jax==0.4.18
 jaxlib==0.4.18
 numpyro==0.11.0
 PuLP==2.9.0 # PuLP is an LP modeler written in python. PuLP can generate MPS or LP files and call GLPK, COIN CLP/CBC, CPLEX, and GUROBI to solve linear problems.
+nltk=3.9.1
+wordcloud=1.9.4
+streamlit=1.42.0
